@@ -1,0 +1,8 @@
+gradio
+openai-whisper
+translate
+python-dotenv
+elevenlabs
+
+# pip install -r requirements.txt
+#voice_id="bIHbv24MWmeRgasZH58o"
