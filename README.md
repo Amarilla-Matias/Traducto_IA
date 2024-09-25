@@ -1,1 +1,1 @@
-# Traducto_IA
+# Traductor_IA
